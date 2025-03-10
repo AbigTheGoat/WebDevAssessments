@@ -1,6 +1,6 @@
 body 
 {
-    background-color: lightblue;    /* Set text color to lightblue */
+    background-color: lightblue;    
 }    
 
 header {
@@ -10,3 +10,27 @@ header {
     text-align: center;
 }
 
+pre {
+    background-color: #222;   
+    color: #f8d210;           
+    padding: 15px;            
+    border-radius: 8px;       
+    border: 1px solid #444;   
+    font-family: monospace;   
+    overflow-x: auto;         
+}
+
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
