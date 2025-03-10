@@ -1,0 +1,12 @@
+body 
+{
+    background-color: lightblue;    /* Set text color to lightblue */
+}    
+
+header {
+    background-color: #9bcdff;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
