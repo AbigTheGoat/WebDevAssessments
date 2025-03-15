@@ -18,13 +18,13 @@ li {
     width: 20%;
   }
 
-  li a {
-    display: block;
-    color: rgb(178, 0, 0);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: underline;
-  }
+li a {
+  display: block;
+  color: rgb(178, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline;
+}
   
 
 header {
@@ -46,11 +46,11 @@ h2{
   text-align: center;
 }
 
-text1 {
+.text1 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-text2  {
+.text2  {
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
